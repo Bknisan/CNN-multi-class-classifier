@@ -15,6 +15,7 @@ instructions:
 
 **about the model:**
  the model classifying 30 class by **.wav** 1 second length provided files.
+ the train is made with 100 instances batching and shuffling as well as the validation.
  
  
 **architecture:**
